@@ -1,0 +1,20 @@
+{
+  "name": "10-oop-team-pg",
+  "version": "1.0.0",
+  "description": "Week 10 Homework Team Page",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
