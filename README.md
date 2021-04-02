@@ -32,7 +32,7 @@ My Team Details:
 
 ### The following is an image of the appearance of the command-line application:
 
-<img src="https://user-images.githubusercontent.com/74746211/113387883-02db8e80-9342-11eb-8bbf-c9b17cacf02b.png" alt="Team Page Generator Command-line app" width="400">
+<img src="https://user-images.githubusercontent.com/74746211/113387883-02db8e80-9342-11eb-8bbf-c9b17cacf02b.png" alt="Team Page Generator Command-line app" width="600">
 
 ## Application Functionality
 
@@ -40,9 +40,9 @@ My Team Details:
 
 [Walkthrough video that demonstrates its functionality and all of the tests passing](https://user-images.githubusercontent.com/74746211/113387737-bdb75c80-9341-11eb-997c-83f91a551403.mp4)
 
-### The following image shows a mock-up of the generated HTML’s appearance and functionality:
+### The following image shows and [links](./dist/team.html) to a mock-up of the generated HTML’s appearance and functionality:
 
-<a href="./dist/team.html"><img src="https://user-images.githubusercontent.com/74746211/113388239-b2186580-9342-11eb-9983-8f73e7c5dd2a.png" alt="HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info" width="400"></a>
+<a href="./dist/team.html"><img src="https://user-images.githubusercontent.com/74746211/113388239-b2186580-9342-11eb-9983-8f73e7c5dd2a.png" alt="HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info" width="600"></a>
 
 -----------
 UofOoopTeamGenerator
