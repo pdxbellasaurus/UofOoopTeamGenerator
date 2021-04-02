@@ -40,9 +40,15 @@ email
 
 ## Application Functionality
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
-![HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info.]()
+![HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info.](https://user-images.githubusercontent.com/74746211/113388239-b2186580-9342-11eb-9983-8f73e7c5dd2a.png)
 
-walkthrough video that demonstrates its functionality and all of the tests passing. 
+![Team Generator Command-line app](https://user-images.githubusercontent.com/74746211/113387883-02db8e80-9342-11eb-8bbf-c9b17cacf02b.png)
+
+[Walkthrough video that demonstrates its functionality and all of the tests passing](https://user-images.githubusercontent.com/74746211/113387737-bdb75c80-9341-11eb-997c-83f91a551403.mp4)
+
+
+
+
 
 The application must include `Employee`, `Manager`, `Engineer`, and `Intern` classes. The tests for these classes (in the `_tests_` directory) must ALL pass.
 
